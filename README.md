@@ -6,4 +6,4 @@ pour executer le code sur windows  comme sur ubuntu il faut faire pour le backen
 ainsi pour la base de donnees http://localhost/phpmyadmin/index.php?route=/database/structure&db=gestion_app sur windows 
 et sur ubuntu on se connecte a mysql pui on lis la bdd gestion_app
 
-pour executer le code sur ubuntu il faut faire pour le backend 
+
